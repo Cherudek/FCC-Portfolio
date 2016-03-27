@@ -1,0 +1,68 @@
+body {
+    background-image: url("images/bg.jpg");
+    padding-top: 70px;
+    
+}
+   
+h1 {
+    font-family: 'Monofett', cursive;
+    text-align: center;
+    font-size: 70px;
+}
+
+h2 {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+}
+    
+h3 {
+    font-family: 'Sansita One', cursive;
+    text-align: center;
+    font-size: 36px;      
+}
+
+p {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color:floralwhite;
+    
+}
+
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 70px;
+    margin-right: 70px;
+    border-style:dashed;
+    border-width: 2px;
+}
+
+.rMenu {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    
+}
+
+.round-border {
+    border-color: whitesmoke;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 50px;
+  }
+.home {
+    padding: 
+}
+
+.about {
+    background-image: url(images/gil_02_905.jpg);
+    background-repeat:round;
+    
+}
+
+.top-nav {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
