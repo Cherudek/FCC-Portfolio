@@ -1,4 +1,5 @@
-# FCC-Portfolio
+### Gregorio Massara Portfolio
+
 FreeCodeCamp challenge build a portfolio
 
 Objective: Build a CodePen.io app that is functionally similar to this: http://codepen.io/hallaathrad/full/vNEPpL.
