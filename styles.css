@@ -45,7 +45,7 @@ p, button {
 
 
 .social1 {
-    padding: 50px 20px 130px 20px;
+    padding: 50px 20px 50px 20px;
 }
 
 
@@ -59,8 +59,8 @@ p, button {
 
 .home {
     background-image: url(https://res.cloudinary.com/dwta0ryvf/image/upload/v1468603978/lugoz_1000_1000_p2vh0a.jpg);
-    padding-top: 150px;
-    padding-bottom: 50px;
+    padding-top: 100px;
+    padding-right: 0px;
     padding-bottom: 50px;
     border-bottom-width: 10px;
     border-color: #f1844d;
@@ -69,7 +69,7 @@ p, button {
 
 .about {
     background-color: #f1844d;
-    padding-top: 50px;
+    padding-top: 20px;
     padding-bottom: 50px;
     border-bottom-width: 10px;
     border-color: #1c94c3;
@@ -80,8 +80,8 @@ p, button {
 
 .portfolio {
     background-color:#1c94c3;
-    padding-top: 70px;
-    padding-bottom: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     border-bottom-width: 10px;
     border-color: #0eae6c;
     border-bottom-style: dotted;
@@ -90,8 +90,8 @@ p, button {
 
 .contacts {
     background-color: #0eae6c;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 20px;
+    padding-bottom: 30px;
     border-bottom-style: dotted;
     border-bottom-width: 10px;
     border-color: black;
