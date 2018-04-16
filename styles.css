@@ -59,7 +59,7 @@ p, button {
 
 .home {
     background-image: url(https://res.cloudinary.com/dwta0ryvf/image/upload/v1468603978/lugoz_1000_1000_p2vh0a.jpg);
-    padding-top: 100px;
+    padding-top: 50px;
     padding-right: 0px;
     padding-bottom: 50px;
     border-bottom-width: 10px;
@@ -112,9 +112,6 @@ p, button {
 
 }
 
-.padding-right {
-  padding-right: 30px;
-}
 
 .top-nav {
     padding-top: 50px;
