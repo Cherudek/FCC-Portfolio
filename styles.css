@@ -43,6 +43,15 @@ p, button {
     color:floralwhite;
     letter-spacing: 2px;
     padding-top: 15px;
+}
+
+b {
+  color: white;
+}
+
+a:hover, a:active {
+  font-size: 150%;
+  text-decoration: none;
 
 }
 
